@@ -111,6 +111,15 @@
     },
     {
       "id": "11"
+    },
+    {
+      "name": "Dog",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
