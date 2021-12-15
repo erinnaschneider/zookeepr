@@ -120,6 +120,24 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Dog",
+      "species": "Canine",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Dog",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
